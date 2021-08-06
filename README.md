@@ -1,0 +1,1 @@
+# parallelly-1.25.0-availableCores-omit-n-and-finally-built-in-SSH-support-for-MS-Windows-10-users
